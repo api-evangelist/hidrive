@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-STRATO HiDrive is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://strato.de/
+STRATO HiDrive is a German cloud storage service offered by STRATO, providing secure data storage, file sharing, and object storage solutions for businesses and individuals. It emphasizes data protection with AES‑256 encryption, compliance with German regulations, and integration with STRATO’s broader hosting and domain services.
+
+**Areas:** Cloud Storage · German · Data Protection · AES-256 Encryption · Business · Individual
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://strato.de/)
+- [Support](https://www.strato.de/faq/help/mail.php?thema=1166)
+- [Security](https://www.strato.de/it-security)
+- [Terms of service](https://www.strato.de/terms-and-conditions/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hidrive/](https://apis.io/providers/hidrive/).
